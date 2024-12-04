@@ -1,2 +1,5 @@
-# szallasfoglalo
-Full faék projekt | 2024.09 | 
+13.a Szoftverfejelsztő
+Szállásfoglaló applikáció
+Database: MySQL
+Frontend: Angular
+Backend: NodeJS + Express
